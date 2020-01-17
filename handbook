@@ -79,11 +79,548 @@ be specified by the player
 	Master rating			only Gladwellian 野郎 (yarou) with too much fucking free time can do this
 
 Core Action Categories
-	Move: running, dodging, jumping, climbing, dancing, etc; if you're using a significant portion of your body, you're moving
-	Compel: talking sweet, talking shit, and everything in between, but not limited to words...
-	Hack: if there's a weakness in something, this is how you exploit it; one of the most valuable skills, limited only by your creativity and patience
-	Fight: using all manner of bladed, blunt, brutal, and sometimes boring objects to beat the hydraulic fluid out of someone, though most people will stick to their fists
-	Conceal: avoiding unwanted attention through overt or covert means, masters of this are usually hiding something else too
-	Operate: the best and biggest things in life take a certain type of knowhow to use; if it can't be brute-forced or hacked, it usually needs to be operated (yes this includes firearms ya wee space slice)
-	Observe: finding items, people, places, and generally interesting things, from the vague and abstract to the objectively solid
-	Treat: relieving if not outright curing the various ailments of the flesh, mind, and their respective peripherals
+	MOVE: running, dodging, jumping, climbing, dancing, etc; if you're using a significant portion of your body, you're moving
+	COMPEL: talking sweet, talking shit, and everything in between, but not limited to words...
+	HACK: if there's a weakness in something, this is how you exploit it; one of the most valuable skills, limited only by your
+		creativity and patience
+	FIGHT: using all manner of bladed, blunt, brutal, and sometimes boring objects to beat the hydraulic fluid out of someone,
+		though most people will stick to their fists
+	CONCEAL: avoiding unwanted attention through overt or covert means, masters of this are usually hiding something else too
+	OPERATE: the best and biggest things in life take a certain type of knowhow to use; if it can't be brute-forced or hacked,
+		it usually needs to be operated (yes this includes firearms ya wee space slice)
+	OBSERVE: finding items, people, places, and generally interesting things, from the vague and abstract to the objectively solid
+	TREAT: relieving if not outright curing the various ailments of the flesh, mind, and their respective peripherals
+	
+ROLES (pre-sets)
+The typical range of freelancing employment in Nexus City changes with tech innovations, seasons, and trends of violence, but can be
+narrowed down to these professions in one form or another. Who you are is at least in part defined by what you can do — which is
+limited only by what you’re good at. There’s a market for everything from makeup to murder in Nexus City. The following roles receive 
+Professional status for the actions listed.
+
+	Traçeur: acrobats and couriers who are by no means combat experts, but they know how to avoid trouble, reaching their destination
+	in a timely and mostly intact manner
+	(e.g. Faith, Mirror’s Edge)
+		Actions:
+			Move
+			Conceal
+
+	Handler: merchantmen and smugglers with the network and knowledge to turn a profit, getting their hands on anything they or their
+	desperate clientele need
+	(e.g. Case, Neuromancer)
+		Actions:
+			Compel
+			Conceal
+
+	Splicer: lockpicks, phreaks, and cipherpunks with the tools to see what's behind every obstacle, their playful addiction to solving
+	puzzles is their best and worst trait
+	(e.g. Radical Edward, Cowboy Bebop)
+		Actions:
+			Hack
+			Operate
+	Rōnin: while the modern-day street samurai has an admittedly short life expectancy, they’re not to be trifled with and are usually
+	the cause for every headline with a kill count
+	(e.g. John Wick, John Wick)
+		Actions:
+			Fight
+			Operate
+
+	Creep: vandals, gangsters, and thieves in the shadier parts of town who always have a side hustle, but tend to prefer ruining
+	their unlucky victim’s outfit and life in one go
+	(e.g. Asimov, Cowboy Bebop)
+		Actions:
+			Conceal
+			Fight
+
+	Agent: as it turns out, hunting down leads and hunting down cash mean pretty much the same thing, and if there's something
+	missing, count on them finding it
+	(e.g. Rick Deckard, Blade Runner)
+		Actions:
+			Observe
+			Compel
+
+	Idol: in the era of the Information Flood, being an entertainer means doing everything: singing, dancing, cracking jokes, and
+	generally winning the hearts of their audience
+	(e.g Kira~! Miki, VA-11 Hall-A)
+		Actions:
+			Compel
+			Move
+
+	Labrat: scientists and doctors of every kind skilled in the arts of surgery, chemistry, and biotechnology, just don’t ask if they
+	have a license to do what they’re good at
+	(e.g. Makise Kurisu, Steins;Gate)
+		Actions:
+			Treat
+			Operate
+
+
+	Pilot: always on the move and never far from a steering wheel or control stick, pilots nevertheless are gifted with strong
+	instincts and reflexes
+	(e.g. Shotaro Kaneda, Akira)
+		Actions:
+			Operate
+			Observe
+			
+BUILDING A CHARACTER
+	1. Write in three Adjectives that define your character, mark each one as Perpetual
+	2. Choose two Actions to define your character's Role; these Actions get +2 (marked Professional; the above pre-set Roles list
+		which Actions receive this status)
+	3. Roll a Legacy die (1d6); if it exceeds 5, add +1 to either of these Actions (upgrading it to Master)
+	4. Choose a third, separate Action to receive +1 as a minor (marked Competent)
+	5. Choose an object, adjective, or specific action within an Action category to declare a skill in that Action (e.g. if you
+		selected “Hack” as one of your actions, what is your character particularly good with?)
+	6. As an alternative, you may choose to ignore steps 2-5; add +1 (Competent) to every Action without specifying an object,
+		adjective, or type of action ("Renaissanceur" role)
+	7. Optional: declare a faction (see Factions list on p.11; if no faction, default to “Radical”)
+	NOTE: Your character will be awarded items and contacts by the GM based on actions, personality, and if you have one, their
+	background; this is at the GM’s discretion — but don’t hesitate to negotiate!
+	
+OBJECTS
+Object Tags:
+Physical things that can be manipulated by characters in a narrative are assigned tags to clarify their size, function, and
+behavior. Many objects share tags as categorical descriptors but are not necessarily identical. It is up to the Game Master, and
+to a lesser extent, the players, to determine how objects differ and how they can be applied.
+		Small: easily portable/concealable (items); compact (vehicles)
+		Oversize: very obvious - bulky/heavy/loud
+		Cyber: network-accessible and electronic/mechanical
+		GPS: transmits location
+		Augment: integrated physical body modification
+		Electric: deals electric damage
+		Heat: deals heat damage
+		Concussion: deals push damage
+		Bladed: deals cutting/piercing damage
+		Automatic: firearms only - fast/very fast fire rate
+		Bolt action: firearms only - slow fire rate
+		Drone: autonomous or remote-control capable
+		Crewed: requires multiple Operators or Pilots (contextual)
+		Tank: vehicles only - armored and durable
+		Walker: leg-driven
+		Hover: repulsor-driven
+		VTOL: vertical take-off and landing capable
+		Transport: carries multiple non-crew passengers
+		Legal: requires paperwork but won’t get you instantly detained or shot
+		Custom: some or all aspects are locked/unique, usually blackmarket
+
+Stock Augmentations (if you don’t like these, use your imagination!):
+The lines between the medical and digital industries have become increasingly blurred. Biohacking is no longer a philosophy, but a means
+of survival. After the passing of the McKnight PAN Micro-Augmentation Act, one in three residents of Nexus City possesses some kind of
+augmentation.
+
+	Neural patches (augment, cyber)
+		Personal Access Node (legal)		at-will mental link/communicator/metro card
+		Neural Entry/Retreat Vector suite	hardware supplement for intrusion protocols
+		Synthetic protein catalyst		improved multitasking capability
+		Internal data module			discreet information, protocol, and software storage
+
+	Artificial senses (augment)
+		Heads-up display (cyber)		navigation, ballistics tracking, and face recognition
+		Dynamic eye				CHOOSE FROM:: zoom; limited-depth x-ray; thermal imager; low-light intensifier
+		Chemical isolyzer			enhanced smell/taste, composition analysis
+		Resonator				enhanced hearing, modified speech
+
+	Limb attachment/replacement (augment)
+		Universal interface adaptor		connect to almost anything, anywhere
+		Manual exponentiator			increased operating speed on older terminals
+		Stilt-blade (small, bladed)		gesture-activated dagger
+		Steelfiber muscle			increased strength
+		Utility arm (small)			tertiary all-purpose limb
+		Taser grip (electric)			electrocuting touch
+		Shock dampeners				reduce impact damage
+
+	Prosthetic/concealed functions (augment, custom)
+		Small storage compartment		he wants room service, just give it to him
+		Currency breech-loader (bolt-action)	￥£$
+		Peptide synthesizer			accelerated healing factor
+
+Terminals:
+Despite the proliferation of integrated technology and augmentations, the average Nexus City resident doesn’t have a lot of Đebt to throw
+around. Those that can’t acquire dangerously modified wetware modules on the black market stick to the old-fashioned cyberdeck; only the
+truly desperate hold on to their obsolete terminals.
+	SunShyne Lambda Cx19 (custom, cyber)		specialist briefcase-sized computer
+	SunShyne Theta Vx7 (small, cyber)		modular datapad, all-purpose
+	Izumi-Ikeda Dataglass (small, cyber)		augmented reality lenses
+
+Drones:
+	Cicada (small, drone, VTOL)			insectoid remotely operated vehicle
+	Tachikoma (drone, tank, walker)			versatile spider-tank with room for one
+	Acosador ( drone, walker)			mechanized combat familiar
+
+Vehicles:
+	Switchblade (small)				folding backpack motorcycle
+	PLACEHOLDER (small)				exotic motorcycle
+	Volpe (small)					all-terrain motorcycle
+	Toro (small)					derby swoop bike
+	Cazador (small, hover)				elegant, fashionable swoop bike
+	PLACEHOLDER					two-passenger cruise motorcycle
+	Avispa (small, VTOL)				utility ornithopter
+	Cobra (walker, tank)				everyday riot suppressor
+	Nova (hover)					all-purpose sedan transport
+	Valkyrie PVD (small, crewed, transport)		standard police vehicle
+	Einherjar (oversize, tank, crewed, transport)	personnel carrier/mobile command
+	Fafnir (VTOL, crewed)				fixed-wing utility jet
+	Condor (VTOL, crewed)				rotary-wing gun platform
+	Carcharodon (oversize, VTOL, crewed, transport)	crisis-response personnel carrier
+
+Mêlée weapons:
+Outside the realm of legally-questionable weaponry augmentations lie the affordable and reliable weapons the everyday resident employs to
+defend themselves from gangsters, thieves, and shady merchants — against the Riot Squads though, one might as well be wielding a piece of
+chipboard
+	Víbora garrote (small, electric)		multipurpose assassin’s tool
+	Baton (small)					police have been using this for centuries
+	Osc blade (small, bladed, heat)			buzzes like a toothbrush, burns like a barbeque
+	Market saber (small, bladed)			ever seen a switchsword?
+	Mantis (custom)					spring-loaded whip with a nasty bite
+	Digidisc (small, bladed, heat)			the dev was out of ideas so they ripped off Tron
+	Katana (oversize, bladed)			surprisingly useful antique, needs no explanation
+	Cricket bat					are you kidding me, a f*cking cricket bat??
+	Magstaff (oversize)				the Big Stick; or, double the bludgeons for double the fun
+
+Firearms:
+Military industries have “crowdsourced” their testing phases by selling their product to anyone with the money to buy. Since most firearms
+(and the licenses to carry them) are expensive, even on the black market, they have become lethal status symbols
+	Blister PDW (small, automatic, heat)		light, high-capacity handgun
+	Shamrock PDW (small, concussion)		double-barrel heavy handgun
+	Nitro PDW (small, cyber)			networked gas-powered handgun
+	Unagi SMG (small, automatic, electric)		short-range taser gun
+	Tarantula SMG (small, automatic, custom)	shrapnel gun
+	Uppercut Shotgun (automatic, concussion)	rotary magazine
+	Hammer Shotgun (oversize, heat)			tRipeL-BaRuL rOkSaLT
+	PLACEHOLDER
+	PLACEHOLDER
+	Scorpion Rifle (oversize, automatic, heat)	precision laser rifle
+	Mantícora Rifle (automatic, custom)		double-barrel bolt rifle
+	Cáscara (cyber, custom)				networked ballistic launcher
+	Ráfaga AP (oversize, custom)			messy acoustic anti-materiel rifle
+	Bodkin AP (oversize, bolt action, custom)	magnetic induction anti-tank rifle
+
+Utility armaments:
+	Grappler
+	PLACEHOLDER
+	PLACEHOLDER
+	PLACEHOLDER
+	Suppressor (suppressed)
+	Airburst ammunition (explosive)
+	Chem ammunition (irradiating)
+	HV ammunition (armor-piercing)
+	IR/NV sight (enhanced)
+	Passthrough receiver (extended magazine)
+	EM floating stock (stabilized)
+
+DICE
+All dice used will be six-sided dice unless in special cases at the GM’s discretion.
+	For players, there are three kinds of dice: Action dice (blue), Risk dice (yellow/purple), and Hurt dice (red)
+	Action dice are rolled any time a player attempts something that requires a given degree of skill; for each attempt, the player
+		is given one Action die for each skill rating above Average in the category they are trying to perform. If the player’s
+		skill rating is Average, they must use a Risk die instead.
+
+	Risk dice (bonuses) are rolled any time a player needs to push the limits of their mind or body. Risk dice are not used for every
+		attempt; instead, at the beginning of each Round, the player is awarded a certain number of Risk dice based on items,
+		adjectives, and other relevant factors that could boost their chances of success. The player may then choose to spend any
+		number of Risk dice on any attempt, at their discretion. The remaining Risk dice are cleared at the end of a Round, and new
+		ones are awarded at the next based on the circumstances.
+
+	Hurt dice (penalties) are rolled any time a player is working against a disadvantage. Hurt dice are awarded like Risk dice at the
+		beginning of each round for adjectives and factors that force the player to push harder. Unlike Risk dice, Hurt dice do
+		not clear at the end of the Round, and additional ones can be accrued depending on how badly the player’s attempts go. By
+		default, one Hurt die is added to the player’s roll for each negative Adjective rating.
+
+	On their turn, the player begins by declaring which Action they will perform and which factors they will take advantage of to aid
+		in their effort, rolling the appropriate number of Action, Risk, and Hurt dice.
+
+	When rolling, no math is necessary - the highest Action or Risk die is the result. However, if any Hurt dice are rolled, they will
+	cancel Action/Risk dice that match their shown value.
+
+	Failures occur by rolling a 1 on Action or Risk dice. Hurt dice cannot fail on their own, but will compound failed rolls on Action
+		and Risk dice.
+
+		An Action die that fails, fails safely - attacks miss; targets flee an extra few feet; guards are unconvinced. Another
+			attempt can be performed immediately with no consequence.
+
+		A Risk die that fails, fails successfully - a software hack punches through defensive measures, but results in neural
+			feedback; a car chase ends with both vehicles disabled. The attempt was successful, at a certain cost.
+
+		A Hurt die that fails, fails catastrophically - a mid-firefight surgery kills the patient; a clever disguise actually
+			draws more attention. The attempt failed, and further attempts are now more likely to fail.
+
+FACTIONS
+	Securétat (city gov & police)
+		The military arm of the République, the Sécuretat do not keep Nexus City safe; they keep it orderly. Disorder and chaos
+		are coutnerproductive to the corporations that bring money to the Nexus, and so as long as the corps hold power, the
+		Securétat enforce the twisted laws that keep them getting paid. ID checks, bloc raids, and arrests are conducted seemingly
+		at random. Vicious riot suppression squads have become a regular and feared sight. Curfews are not unusual either.
+		
+	Ink Bastards (street gang - scavengers)
+		A motley collection of dumpster divers and hoarders, the Ink Bastards are infamous for taking the most useless trash and
+		flipping it on the black market for millions of Đebt. Few can repair hardware or cook software like they can, and their
+		trawler gangs feature some of the best appraisers around. Be wary when dealing with them however; while their tech is
+		always top notch, they will rob unsuspecting victims at the first chance they get.
+		
+	Fenrir (street gang - arms dealers)
+		Goons of the oldest and best-known crime family; it pays to be among the ranks of the Fenrir. Even the lowliest thug
+		adheres to a strict code of honor. Disobedience means an ugly death by the newest prototype. Rumors say instead of selling
+		experimental firearms, they sell publicity: that they are on the payroll of an international weapons ring raining top
+		dollar to see their latest steel in action on the streets.
+
+	Birdeaters (street gang - motorcycles)
+		Those with money to spend and places to be usually get their thrills from modifying and racing vehicles - namely, the
+		motorcycle and swoop bike. The most prolific group of these rebellious racers is the Birdeater gang, which made its name
+		terrorizing motorists and police patrols on the long stretches of pavement in the Pulse Sector and the mountains to the
+		west.
+
+	SunShyne Global (zaibatsu - fabricators) // BLACKLISTED
+		A household name for the past fifty years, SunShyne has commodified the user experience. The pinnacle of their
+		achievements: androids for nearly every purpose. Despite their success, the global manufacturer continues to experiment
+		radically with materials, scripts, and engineering, frequently commissioning freelance terminal jockeys and garage
+		tinkerers to produce truly masterful designs. The exceptionally-talented chosen few are never given limited-term contracts,
+		are never offered a chance to refuse, and are never seen again.
+			Logo: golden sunburst
+
+	Wikus-Gibson Conglomerate (zaibatsu - medicine/biotech)
+		Despite being in legal hot water for alleged experiments in cloning, the Wikus-Gibson Conglomerate remains the most trusted
+		medical provider in the Nexus. It has done so by becoming the only medical provider, fiercely eradicating competition
+		through aggressive marketing, cutthroat billing and payment plans, and also by flooding the market with every biological
+		innovation they can get away with, legal or otherwise.
+			Logo: stylized electrocardiograph “WG”
+
+	Aeschylus Industries (zaibatsu - weapons R&D)
+		Aeschylus Industries creates armaments the same way the high fashion industry creates clothes - with cunning, an eye for
+		beauty, and a staggering amount of labor exploitation. One of the first to set up shop in the Nexus, Aeschylus has gotten
+		away with a bloody history by reserving its best tech for the Securétat.
+			Logo: 
+	Minerva Laboratory (zaibatsu - unknown) // BLACKLISTED
+		Though not much is publicly available on this organization, it’s clear that Minerva is military-affiliated, operating on
+		both of the independent Intralogic orbital research centers. Conspiracies abound as to their projects, motives, and the
+		possible omission of more information than what’s already suspected...
+
+CONTRACTS
+For flatliners and others in the freelancing business, cash-flow is never guaranteed. Thankfully the most desperate and/or successful in
+the Nexus don't have the time to do their dirty work themselves, so it gets outsourced for a reasonable price.
+	Delivery
+	Recon
+	Exchange
+	Apprehend
+	Rescue
+	Steal
+	Blackmail
+	Sabotage
+	Escape
+	Hunt
+	Guard
+	Race
+
+
+	Contract Targets
+		Person of Interest
+		Contraband
+		Hardware/software
+		Wetware
+		Information
+		Vehicle
+		High-value art
+		Physical cash
+		Medical goods
+		Prototype
+
+
+
+NON-PLAYER CHARARACTERS (Non-specific, faction-aligned)
+	Rank 1: light and fast; delivers messages and performs scouting missions
+	Rank 2: most common; tasked with everyday legwork such as patrolling
+	Rank 3: called in for dangerous situations involving multiple threats
+	Rank 4: present for large disturbances that have escalated past ordinary status
+	Rank 5: commanding rank assigned to specific regions
+
+	Ink Bastards
+		1. Runner
+		2. Salvager
+		3. Punisher
+		4. Berserker
+		5. Foreman
+
+	Securétat
+		1. Courier
+		2. Officer
+		3. Régulier
+		4. Enforcer
+		5. Commandant
+
+
+	Fenrir
+		1. Mule
+		2. Collector
+		3. Bruiser
+		4. Cleaner
+		5. Lieutenant
+
+	Zaibatsus
+		1. Drone
+		2. Technician
+		3. Repossessor
+		4. Engineer
+		5. Executive
+
+
+	Birdeaters
+		1. Scout
+		2. Vandal
+		3. Hunter
+
+
+	Random Encounters
+		Securétat (city gov & police):
+			Securétat personnel are vigilant but typically not hostile unless attacked or witness an act of crime. Securétat
+			presence is virtually none in high-level crime sectors except in large groups. Securétat attention when present
+			will vary depending on status:
+				Alert: officers are on standby for crime, will respond with detention
+				Guard: officers are watchful for civil unrest, will respond with force
+				Patrol: officers are searching for suspicious behaviour, will respond with lethal force
+				Raid/Pursuit: officers are hunting wanted targets, will respond with lethal force
+				Riot Ban: if declared, officers have permission to fire on any citizen breaking curfew
+
+			Roll d100 to generate mobile Securétat in a given location:
+				10%       <10     :: No Securétat presence
+				5%    11-15     :: Securétat Officers; vehicular (Cazador)
+				15%    16-30     :: Securétat Officers in pairs
+				15%    31-45     :: Securétat Officers in pairs; vehicular (Nova)
+				15%    46-60     :: Securétat Valkyrie containing 4 Réguliers
+				10%    61-70     :: Securétat Réguliers in groups of 1d6 + 3
+				10%    71-80     :: Securétat Enforcers in groups of 1d6 + 6
+				5%    81-85     :: Securétat Einherjar containing 2d6 Enforcers, 1 Commandant
+				5%    86-90     :: Securétat Cobra accompanied by 1d6 Enforcers, 1 Commandant
+				5%    91-95    :: Securétat Condor containing 1d6 Réguliers
+				5%    96<    :: Securétat Carcharodon containing 3d6 Enforcers, two Commandants
+    
+    			Roll d100 to generate static Securétat in a given location:
+				20%    <20      :: Securétat Kōban containing 1d6 Officers
+				30%     21 - 50 :: Securétat Checkpoint accompanied by 1d6 + 2 Officers
+				20%     51 - 70 :: Securétat Roadblock accompanied by 1d6 Réguliers, 1 Valkyrie
+				15%    71 - 85 :: Securétat Riot Line comprised of 3d6 Enforcers
+				10%    86 - 95 :: Securétat Nest containing 2 Couriers (equipped with Ráfaga)
+				5%         95< :: Securétat Command Post containing
+
+		Visa Residents (tourists and foreign investors)
+			Those who come to Nexus City for fun have different standards than the rest. They’re typically not friendly or
+			trustworthy, preferring instead to mind their own business above all else. However, the culture shock of the Nexus
+			can lead to embarrassing mistakes - missing items (stolen more often than not), poor business decisions, and
+			smeared reputations sometimes require the intervention of a knowledgeable local to set right. Visa residents will
+			ignore others by default unless it is in their best interest
+			
+		Contract Residents (non-criminal lowlife)
+			Working in Nexus City is not easy, and living is even harder. Those with the nerve to do so have learned the art of
+			keeping their head down, avoiding the attention of gangs and law enforcement, while still looking out for their
+			neighbors. The wage slaves, debt brokers, and indentured specialists who originally came to the Nexus to make their
+			fortune now fight each day to keep their heads above the financial waters. Contract residents, though cautious,
+			will try to lend a hand to familiar faces depending on their disposition.
+			
+		Ink Bastards (street gang - salvagers)
+			Ink Bastards are initially wary but become more and more provocative in numbers.
+
+		Fenrir (street gang - arms dealers)
+    			Fenrir tend to prefer specialized and efficient teams to cut down on personnel costs.
+
+    			Roll 1d20 to generate Fenrir gangsters in a given location:
+				20%          <4 :: solo mule
+					roll again for on foot, 50% or vehicular, 50% (Nova)
+				25%         5-9 :: Fenrir Hit Squad comprised of 1d4 + 1 Collectors
+					roll again for on foot, 50%; or vehicular, 50% (Nova)
+				20%     10-13 :: Fenrir Crime Gang comprised of 1d6 Collectors
+					roll again for on foot, 50%; or vehicular, 50% (Nova)
+				10%    14,15 :: Fenrir Shock Team comprised of 1d4 + 2 Bruisers
+				10%    16,17 :: Fenrir Lieutenant (equipped with Nitro)
+				10%     18,19 :: Fenrir Cleaner (equipped with Scorpion)
+				5%            20 :: Fenrir Entourage comprised of 1d6 Collectors, 2 Bruisers, 1 Lieutenant
+
+		Birdeaters (street gang - motorcycles)
+			Birdeaters are highly territorial, and hostile unless racing - then, they’re apathetic at best.
+    			
+			Roll 1d10 to generate Birdeaters in a given location:
+				50%    :: Birdeaters patrolling in groups of 1d4 + 3
+				20%    :: 
+				10%
+				10%
+				10%
+				
+LOCALES
+Nexus City:
+	Today, the NEXUS, more commonly known as Nexus City, is one of the most diverse hotspots on the map. Originally a South American
+	city-state used as a financial and legal haven, the region quickly became a proving ground for integrating bleeding edge technology
+	into society for the global-industrial complex. Home to titans such as Taifun Augmentations, Wikus-Gibson Conglomerate, and Vorkuta
+	Bio-Recycling, the labor requirement of these megacorporations is the only reason the sprawl is maintaining a positive population
+	growth rate.
+
+	Census data shows 27% South American, 22% Asian, and 19% Eastern European majority populations. Roughly one in three human residents
+	possesses some kind of genetic, mechanical, or cybernetic upgrade. Since 2046, the McKnight Act requires all persons possessing a
+	visa and/or labor-living contract to undergo licensed PAN micro-augmentation.
+
+	Nexus City is organized in a manner typical of port cities, stratified with the working class occupying districts close to
+	industrial centers and the literal lower districts of the city (the most dramatic example being the quarantined Old City) while more
+	affluent populations gather in isolated areas and thickets of supertall skyscrapers. However, evidence of the unorthodox origins of
+	Nexus City can be found in its floodwalls - which safeguard low-lying factory centers - and its industrial acropoli. No other flood
+	protection measures are taken to such a degree anywhere in the city, even in the case of the Quarantine Zone or Miyuki Castle.
+
+	The official language of Nexus City is Collective Economic English due to the presence of internationally operating businesses, but
+	residents also capably speak Kanto Japanese, Venezolano Spanish, Redentor Português, and Artisan Trade Polish. Lower-class districts
+	have rapidly developed a local creole of these four languages known as Nasztachi.
+
+
+	Pulse Sector (crime level: 5)
+		Once the heart of the local industrial economy, the loss of numerous storage and processing facilities in the now-abandoned
+		Sunken District hit the Pulse Sector hard. But thanks to the completion of the Orbital Tether and Cradle Harbor, the area
+		has seen a gradual renewal. One of the more diverse of Nexus City’s five Sectors, Pulse is home to both the elite and the
+		disenfranchised. Recently, the Birdeaters have taken to holding illegal races on the long roads that wind through the port
+		and into the mountains, prompting an increase in Sécuretat activity.
+			Orbital Tether                                  international spaceport
+			Kołyska District                        harbor & industrial facilities
+			Sunken District     former Peninsular District, remodeled by Hurricane Virgilio
+			Ibarazaki Plaza                       mixed-class shopping and residential
+			The Scaffold                    vertical slum built into the side of the Floodwall
+			Nishibashi                    
+
+	Core Sector (crime level: 3)
+		Host to the administrators of Nexus City, the Core is the poster-image of the Republique’s ideals. With clean streets,
+		comfortably wealthy citizens, and classy shopping and business centers, the atmosphere is as phony as the various statues
+		memorializing the corrupt and greedy who hold power. Despite its order, it is notorious for protests, as the main streets
+		funnel traffic towards the République District and Miyuki Castle.
+			Kyobashi              the best of Nexus City’s middle-class social scene
+			Miyuki Castle                           fortified estate of the royal family
+			République District                  administrative center of Nexus City
+			Playa Azulado                  part tourist destination, part construction hazard
+			Botanical Park                       sanctuary garden of San Luca’s original flora
+			La Luz                         high-end shopping, low-end bloc housing
+			Financial District                             “cyber Wall Street”
+			Night Market                                24-hour flea market
+
+	Windward Sector (crime level: 7)
+		Ostensibly the oldest and most-respected of Nexus City, the Windward Sector is stratification taken to its extreme. The
+		entirety of the original San Luca downtown lies within a massive circular floodwall which does little to prevent inundation
+		but is effective at draining water out of the rest of the city. Meanwhile the Wikus-Gibson acropolis, the supertalls of
+		Ivory Island, and the Floodwall hem in the urban canyons, giving the sector a claustrophobic and oppressive feel.
+			Midorihama                beachfront repurposed for e-waste dumping
+			Wikus-Gibson Complex                     fortified zaibatsu headquarters
+			Ivory Island                     enclave home to Nexus City’s bourgeois
+			Canal District                    
+			Red Quarter                    
+			Barrio Antiguo (Quarantine)                  former San Luca financial district
+			Studio District                    
+			Haven                       network of refugee slums from the Autumn War
+
+	Acropolis Sector (crime level: 8) 
+			SunShyne Complex                          fortified zaibatsu headquarters
+			Floodgate District          crossroads and processing center for inland shipments
+			Scrap Mile                   primary Nexus City landfill and recycling center
+			Ciudad Fábrica
+			Nexus City Prison
+			Crucible                     ore and metal refinery/manufacturing
+
+	Highland Sector (crime level: 9)
+		Corralled by the river, the mountains, and the Floodwall itself, the Highland is quieter in traffic volume if not actual
+		noise. Its occupancy cycles dramatically between the blue collar workers, the black collar outcasts, and the white collar
+		elite, who each take it in turns to do their business, legal or otherwise
+			Silicon Row                 Nexus City’s biggest circuit printing facilities
+			Angostas
+			Aeschylus Complex                          fortified zaibatsu headquarters
+			Warehouse District                
+			The Narrows                    dangerous even by Nexus standards
+			Fringe
+			Mori Heights
+			Nexus City Skyport
+			Ciudad Nikola
