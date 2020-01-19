@@ -13,6 +13,7 @@ guilty are referred to as Flatliners... criminals with a slim life expectancy; c
 Please be aware this is a work in progress and does not represent the final product!
 If you notice that a section is missing or unclear, please leave a note. Thank you for your understanding and enjoy!
 
+
 CONTENTS
 Introduction
 Characters
@@ -38,7 +39,8 @@ World
 	Random Encounters
 	Locales
 	Timeline
-		
+
+
 ADJECTIVES
 Adjectives are applied to a character or object any time their status changes significantly; this can happen naturally or can be
 forced through the use of Actions; Adjectives have three states: Fleeting, Enduring, and Perpetual
@@ -68,7 +70,8 @@ Examples of Adjectives (feel free to use ones not on this list):
 	Resilient
 	Shocked
 	Wounded
-		
+
+
 ACTIONS
 Actions are divided into broad categories and are used primarily in puzzle-solving and turns of Contention and Reaction instead of
 role-play/acting; the rating defines the level of skill; each rating implicitly applies to a style of the respective action and must
@@ -90,7 +93,8 @@ Core Action Categories
 		it usually needs to be operated (yes this includes firearms ya wee space slice)
 	OBSERVE: finding items, people, places, and generally interesting things, from the vague and abstract to the objectively solid
 	TREAT: relieving if not outright curing the various ailments of the flesh, mind, and their respective peripherals
-	
+
+
 ROLES (pre-sets)
 The typical range of freelancing employment in Nexus City changes with tech innovations, seasons, and trends of violence, but can be
 narrowed down to these professions in one form or another. Who you are is at least in part defined by what you can do — which is
@@ -117,6 +121,7 @@ Professional status for the actions listed.
 		Actions:
 			Hack
 			Operate
+
 	Rōnin: while the modern-day street samurai has an admittedly short life expectancy, they’re not to be trifled with and are usually
 	the cause for every headline with a kill count
 	(e.g. John Wick, John Wick)
@@ -152,7 +157,6 @@ Professional status for the actions listed.
 			Treat
 			Operate
 
-
 	Pilot: always on the move and never far from a steering wheel or control stick, pilots nevertheless are gifted with strong
 	instincts and reflexes
 	(e.g. Shotaro Kaneda, Akira)
@@ -173,7 +177,8 @@ BUILDING A CHARACTER
 	7. Optional: declare a faction (see Factions list on p.11; if no faction, default to “Radical”)
 	NOTE: Your character will be awarded items and contacts by the GM based on actions, personality, and if you have one, their
 	background; this is at the GM’s discretion — but don’t hesitate to negotiate!
-	
+
+
 OBJECTS
 Object Tags:
 Physical things that can be manipulated by characters in a narrative are assigned tags to clarify their size, function, and
@@ -305,9 +310,11 @@ Utility armaments:
 	Passthrough receiver (extended magazine)
 	EM floating stock (stabilized)
 
+
 DICE
-All dice used will be six-sided dice unless in special cases at the GM’s discretion.
-	For players, there are three kinds of dice: Action dice (blue), Risk dice (yellow/purple), and Hurt dice (red)
+All dice used will be six-sided dice unless in special cases at the GM’s discretion. For players, there are three kinds of dice:
+Action dice (blue), Risk dice (yellow/purple), and Hurt dice (red)
+
 	Action dice are rolled any time a player attempts something that requires a given degree of skill; for each attempt, the player
 		is given one Action die for each skill rating above Average in the category they are trying to perform. If the player’s
 		skill rating is Average, they must use a Risk die instead.
@@ -330,7 +337,7 @@ All dice used will be six-sided dice unless in special cases at the GM’s discr
 	cancel Action/Risk dice that match their shown value.
 
 	Failures occur by rolling a 1 on Action or Risk dice. Hurt dice cannot fail on their own, but will compound failed rolls on Action
-		and Risk dice.
+	and Risk dice.
 
 		An Action die that fails, fails safely - attacks miss; targets flee an extra few feet; guards are unconvinced. Another
 			attempt can be performed immediately with no consequence.
@@ -340,6 +347,7 @@ All dice used will be six-sided dice unless in special cases at the GM’s discr
 
 		A Hurt die that fails, fails catastrophically - a mid-firefight surgery kills the patient; a clever disguise actually
 			draws more attention. The attempt failed, and further attempts are now more likely to fail.
+
 
 FACTIONS
 	Securétat (city gov & police)
@@ -391,6 +399,7 @@ FACTIONS
 		both of the independent Intralogic orbital research centers. Conspiracies abound as to their projects, motives, and the
 		possible omission of more information than what’s already suspected...
 
+
 CONTRACTS
 For flatliners and others in the freelancing business, cash-flow is never guaranteed. Thankfully the most desperate and/or successful in
 the Nexus don't have the time to do their dirty work themselves, so it gets outsourced for a reasonable price.
@@ -419,8 +428,7 @@ the Nexus don't have the time to do their dirty work themselves, so it gets outs
 		Physical cash
 		Medical goods
 		Prototype
-
-
+		
 
 NON-PLAYER CHARARACTERS (Non-specific, faction-aligned)
 	Rank 1: light and fast; delivers messages and performs scouting missions
@@ -443,102 +451,101 @@ NON-PLAYER CHARARACTERS (Non-specific, faction-aligned)
 		4. Enforcer
 		5. Commandant
 
-
 	Fenrir
 		1. Mule
 		2. Collector
 		3. Bruiser
 		4. Cleaner
 		5. Lieutenant
-
+		
 	Zaibatsus
 		1. Drone
 		2. Technician
 		3. Repossessor
 		4. Engineer
 		5. Executive
-
-
+		
 	Birdeaters
 		1. Scout
 		2. Vandal
 		3. Hunter
 
 
-	Random Encounters
-		Securétat (city gov & police):
-			Securétat personnel are vigilant but typically not hostile unless attacked or witness an act of crime. Securétat
-			presence is virtually none in high-level crime sectors except in large groups. Securétat attention when present
-			will vary depending on status:
-				Alert: officers are on standby for crime, will respond with detention
-				Guard: officers are watchful for civil unrest, will respond with force
-				Patrol: officers are searching for suspicious behaviour, will respond with lethal force
-				Raid/Pursuit: officers are hunting wanted targets, will respond with lethal force
-				Riot Ban: if declared, officers have permission to fire on any citizen breaking curfew
+Random Encounters
+	Securétat (city gov & police):
+		Securétat personnel are vigilant but typically not hostile unless attacked or witness an act of crime. Securétat presence
+		is virtually none in high-level crime sectors except in large groups. Securétat attention when present will vary
+		depending on status:
+			Alert: officers are on standby for crime, will respond with detention
+			Guard: Officers are watchful for civil unrest, will respond with force
+			Patrol: officers are searching for suspicious behaviour, will respond with lethal force
+			Raid/Pursuit: officers are hunting wanted targets, will respond with lethal force
+			Riot Ban: if declared, officers have permission to fire on any citizen breaking curfew
 
-			Roll d100 to generate mobile Securétat in a given location:
-				10%       <10     :: No Securétat presence
-				5%    11-15     :: Securétat Officers; vehicular (Cazador)
-				15%    16-30     :: Securétat Officers in pairs
-				15%    31-45     :: Securétat Officers in pairs; vehicular (Nova)
-				15%    46-60     :: Securétat Valkyrie containing 4 Réguliers
-				10%    61-70     :: Securétat Réguliers in groups of 1d6 + 3
-				10%    71-80     :: Securétat Enforcers in groups of 1d6 + 6
-				5%    81-85     :: Securétat Einherjar containing 2d6 Enforcers, 1 Commandant
-				5%    86-90     :: Securétat Cobra accompanied by 1d6 Enforcers, 1 Commandant
-				5%    91-95    :: Securétat Condor containing 1d6 Réguliers
-				5%    96<    :: Securétat Carcharodon containing 3d6 Enforcers, two Commandants
+		Roll d100 to generate mobile Securétat in a given location:
+			10%	  <10	:: No Securétat presence
+			5%	11-15	:: Securétat Officers; vehicular (Cazador)
+			15%	16-30	:: Securétat Officers in pairs
+			15%	31-45	:: Securétat Officers in pairs; vehicular (Nova)
+			15%	46-60	:: Securétat Valkyrie containing 4 Réguliers
+			10%	61-70	:: Securétat Réguliers in groups of 1d6 + 3
+			10%	71-80	:: Securétat Enforcers in groups of 1d6 + 6
+			5%	81-85	:: Securétat Einherjar containing 2d6 Enforcers, 1 Commandant
+			5%	86-90	:: Securétat Cobra accompanied by 1d6 Enforcers, 1 Commandant
+			5%	91-95	:: Securétat Condor containing 1d6 Réguliers
+			5%	96<	:: Securétat Carcharodon containing 3d6 Enforcers, two Commandants
     
-    			Roll d100 to generate static Securétat in a given location:
-				20%    <20      :: Securétat Kōban containing 1d6 Officers
-				30%     21 - 50 :: Securétat Checkpoint accompanied by 1d6 + 2 Officers
-				20%     51 - 70 :: Securétat Roadblock accompanied by 1d6 Réguliers, 1 Valkyrie
-				15%    71 - 85 :: Securétat Riot Line comprised of 3d6 Enforcers
-				10%    86 - 95 :: Securétat Nest containing 2 Couriers (equipped with Ráfaga)
-				5%         95< :: Securétat Command Post containing
+    		Roll d100 to generate static Securétat in a given location:
+			20%	  <20	:: Securétat Kōban containing 1d6 Officers
+			30%	21-50	:: Securétat Checkpoint accompanied by 1d6 + 2 Officers
+			20%	51-70	:: Securétat Roadblock accompanied by 1d6 Réguliers, 1 Valkyrie
+			15%	71-85	:: Securétat Riot Line comprised of 3d6 Enforcers
+			10%	86-95	:: Securétat Nest containing 2 Couriers (equipped with Ráfaga)
+			5%	95<	:: Securétat Command Post containing
 
-		Visa Residents (tourists and foreign investors)
-			Those who come to Nexus City for fun have different standards than the rest. They’re typically not friendly or
-			trustworthy, preferring instead to mind their own business above all else. However, the culture shock of the Nexus
-			can lead to embarrassing mistakes - missing items (stolen more often than not), poor business decisions, and
-			smeared reputations sometimes require the intervention of a knowledgeable local to set right. Visa residents will
-			ignore others by default unless it is in their best interest
+	Visa Residents (tourists and foreign investors)
+		Those who come to Nexus City for fun have different standards than the rest. They’re typically not friendly or trustworthy,
+		preferring instead to mind their own business above all else. However, the culture shock of the Nexus can lead to
+		embarrassing mistakes - missing items (stolen more often than not), poor business decisions, and smeared reputations
+		sometimes require the intervention of a knowledgeable local to set right. Visa residents will ignore others by default
+		unless it is in their best interest
 			
-		Contract Residents (non-criminal lowlife)
-			Working in Nexus City is not easy, and living is even harder. Those with the nerve to do so have learned the art of
-			keeping their head down, avoiding the attention of gangs and law enforcement, while still looking out for their
-			neighbors. The wage slaves, debt brokers, and indentured specialists who originally came to the Nexus to make their
-			fortune now fight each day to keep their heads above the financial waters. Contract residents, though cautious,
-			will try to lend a hand to familiar faces depending on their disposition.
+	Contract Residents (non-criminal lowlife)
+		Working in Nexus City is not easy, and living is even harder. Those with the nerve to do so have learned the art of keeping
+		their head down, avoiding the attention of gangs and law enforcement, while still looking out for their neighbors. The wage
+		slaves, debt brokers, and indentured specialists who originally came to the Nexus to make their fortune now fight each day
+		to keep their heads above the financial waters. Contract residents, though cautious, will try to lend a hand to familiar
+		faces depending on their disposition.
 			
-		Ink Bastards (street gang - salvagers)
-			Ink Bastards are initially wary but become more and more provocative in numbers.
+	Ink Bastards (street gang - salvagers)
+		Ink Bastards are initially wary but become more and more provocative in numbers.
 
-		Fenrir (street gang - arms dealers)
-    			Fenrir tend to prefer specialized and efficient teams to cut down on personnel costs.
+	Fenrir (street gang - arms dealers)
+    		Fenrir tend to prefer specialized and efficient teams to cut down on personnel costs.
 
-    			Roll 1d20 to generate Fenrir gangsters in a given location:
-				20%          <4 :: solo mule
-					roll again for on foot, 50% or vehicular, 50% (Nova)
-				25%         5-9 :: Fenrir Hit Squad comprised of 1d4 + 1 Collectors
-					roll again for on foot, 50%; or vehicular, 50% (Nova)
-				20%     10-13 :: Fenrir Crime Gang comprised of 1d6 Collectors
-					roll again for on foot, 50%; or vehicular, 50% (Nova)
-				10%    14,15 :: Fenrir Shock Team comprised of 1d4 + 2 Bruisers
-				10%    16,17 :: Fenrir Lieutenant (equipped with Nitro)
-				10%     18,19 :: Fenrir Cleaner (equipped with Scorpion)
-				5%            20 :: Fenrir Entourage comprised of 1d6 Collectors, 2 Bruisers, 1 Lieutenant
+    		Roll 1d20 to generate Fenrir gangsters in a given location:
+			20%	  <04 	:: solo mule
+						roll again for 50% on foot; or 50% vehicular (Nova)
+			25%	05-09 	:: Fenrir Hit Squad comprised of 1d4 + 1 Collectors
+						roll again for on foot, 50%; or vehicular, 50% (Nova)
+			20%	10-13 	:: Fenrir Crime Gang comprised of 1d6 Collectors
+						roll again for on foot, 50%; or vehicular, 50% (Nova)
+			10%	14,15	:: Fenrir Shock Team comprised of 1d4 + 2 Bruisers
+			10%	16,17	:: Fenrir Lieutenant (equipped with Nitro)
+			10%	18,19	:: Fenrir Cleaner (equipped with Scorpion)
+			5%	20 	:: Fenrir Entourage comprised of 1d6 Collectors, 2 Bruisers, 1 Lieutenant
 
-		Birdeaters (street gang - motorcycles)
-			Birdeaters are highly territorial, and hostile unless racing - then, they’re apathetic at best.
-    			
-			Roll 1d10 to generate Birdeaters in a given location:
-				50%    :: Birdeaters patrolling in groups of 1d4 + 3
-				20%    :: 
-				10%
-				10%
-				10%
-				
+	Birdeaters (street gang - motorcycles)
+		Birdeaters are highly territorial, and hostile unless racing - then, they’re apathetic at best.
+		
+		Roll 1d10 to generate Birdeaters in a given location:
+			50%    :: Birdeaters patrolling in groups of 1d4 + 3
+			20%    :: 
+			10%
+			10%
+			10%
+
+
 LOCALES
 Nexus City:
 	Today, the NEXUS, more commonly known as Nexus City, is one of the most diverse hotspots on the map. Originally a South American
@@ -568,59 +575,59 @@ Nexus City:
 		has seen a gradual renewal. One of the more diverse of Nexus City’s five Sectors, Pulse is home to both the elite and the
 		disenfranchised. Recently, the Birdeaters have taken to holding illegal races on the long roads that wind through the port
 		and into the mountains, prompting an increase in Sécuretat activity.
-			Orbital Tether                                  international spaceport
-			Kołyska District                        harbor & industrial facilities
-			Sunken District     former Peninsular District, remodeled by Hurricane Virgilio
-			Ibarazaki Plaza                       mixed-class shopping and residential
-			The Scaffold                    vertical slum built into the side of the Floodwall
-			Nishibashi                    
+			Orbital Tether			international spaceport
+			Kołyska District		harbor & industrial facilities
+			Sunken District			former Peninsular District, remodeled by Hurricane Virgilio
+			Ibarazaki Plaza			mixed-class shopping and residential
+			The Scaffold			vertical slum built into the side of the Floodwall
+			Nishibashi			PLACEHOLDER
 
 	Core Sector (crime level: 3)
 		Host to the administrators of Nexus City, the Core is the poster-image of the Republique’s ideals. With clean streets,
 		comfortably wealthy citizens, and classy shopping and business centers, the atmosphere is as phony as the various statues
 		memorializing the corrupt and greedy who hold power. Despite its order, it is notorious for protests, as the main streets
 		funnel traffic towards the République District and Miyuki Castle.
-			Kyobashi              the best of Nexus City’s middle-class social scene
-			Miyuki Castle                           fortified estate of the royal family
-			République District                  administrative center of Nexus City
-			Playa Azulado                  part tourist destination, part construction hazard
-			Botanical Park                       sanctuary garden of San Luca’s original flora
-			La Luz                         high-end shopping, low-end bloc housing
-			Financial District                             “cyber Wall Street”
-			Night Market                                24-hour flea market
+			Kyobashi			the best of Nexus City’s middle-class social scene
+			Miyuki Castle			fortified estate of the royal family
+			République District		administrative center of Nexus City
+			Playa Azulado			part tourist destination, part construction hazard
+			Botanical Park			sanctuary garden of San Luca’s original flora
+			La Luz				high-end shopping, low-end bloc housing
+			Financial District		“cyber Wall Street”
+			Night Market			24-hour flea market
 
 	Windward Sector (crime level: 7)
 		Ostensibly the oldest and most-respected of Nexus City, the Windward Sector is stratification taken to its extreme. The
 		entirety of the original San Luca downtown lies within a massive circular floodwall which does little to prevent inundation
 		but is effective at draining water out of the rest of the city. Meanwhile the Wikus-Gibson acropolis, the supertalls of
 		Ivory Island, and the Floodwall hem in the urban canyons, giving the sector a claustrophobic and oppressive feel.
-			Midorihama                beachfront repurposed for e-waste dumping
-			Wikus-Gibson Complex                     fortified zaibatsu headquarters
-			Ivory Island                     enclave home to Nexus City’s bourgeois
-			Canal District                    
-			Red Quarter                    
-			Barrio Antiguo (Quarantine)                  former San Luca financial district
-			Studio District                    
-			Haven                       network of refugee slums from the Autumn War
+			Midorihama			beachfront repurposed for e-waste dumping
+			Wikus-Gibson Complex		fortified zaibatsu headquarters
+			Ivory Island			enclave home to Nexus City’s bourgeois
+			Canal District			PLACEHOLDER
+			Red Quarter			PLACEHOLDER
+			Barrio Antiguo (Quarantine)	former San Luca financial district
+			Studio District                 PLACEHOLDER   
+			Haven				network of refugee slums from the Autumn War
 
 	Acropolis Sector (crime level: 8) 
-			SunShyne Complex                          fortified zaibatsu headquarters
-			Floodgate District          crossroads and processing center for inland shipments
-			Scrap Mile                   primary Nexus City landfill and recycling center
-			Ciudad Fábrica
-			Nexus City Prison
-			Crucible                     ore and metal refinery/manufacturing
+			SunShyne Complex		fortified zaibatsu headquarters
+			Floodgate District		crossroads and processing center for inland shipments
+			Scrap Mile			primary Nexus City landfill and recycling center
+			Ciudad Fábrica			PLACEHOLDER
+			Nexus City Prison		PLACEHOLDER
+			Crucible			ore and metal refinery/manufacturing
 
 	Highland Sector (crime level: 9)
 		Corralled by the river, the mountains, and the Floodwall itself, the Highland is quieter in traffic volume if not actual
 		noise. Its occupancy cycles dramatically between the blue collar workers, the black collar outcasts, and the white collar
 		elite, who each take it in turns to do their business, legal or otherwise
-			Silicon Row                 Nexus City’s biggest circuit printing facilities
-			Angostas
-			Aeschylus Complex                          fortified zaibatsu headquarters
-			Warehouse District                
-			The Narrows                    dangerous even by Nexus standards
-			Fringe
-			Mori Heights
-			Nexus City Skyport
-			Ciudad Nikola
+			Silicon Row			Nexus City’s biggest circuit printing facilities
+			Angostas			PLACEHOLDER
+			Aeschylus Complex		fortified zaibatsu headquarters
+			Warehouse District		PLACEHOLDER
+			The Narrows			dangerous even by Nexus standards
+			Fringe				PLACEHOLDER
+			Mori Heights			PLACEHOLDER
+			Nexus City Skyport		PLACEHOLDER
+			Ciudad Nikola			PLACEHOLDER
