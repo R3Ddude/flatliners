@@ -393,7 +393,8 @@ FACTIONS
 		Aeschylus Industries creates armaments the same way the high fashion industry creates clothes - with cunning, an eye for
 		beauty, and a staggering amount of labor exploitation. One of the first to set up shop in the Nexus, Aeschylus has gotten
 		away with a bloody history by reserving its best tech for the Securétat.
-			Logo: 
+			Logo: Spartan "A" in closed circle
+			
 	Minerva Laboratory (zaibatsu - unknown) // BLACKLISTED
 		Though not much is publicly available on this organization, it’s clear that Minerva is military-affiliated, operating on
 		both of the independent Intralogic orbital research centers. Conspiracies abound as to their projects, motives, and the
@@ -521,7 +522,11 @@ Random Encounters
 		Ink Bastards are initially wary but become more and more provocative in numbers.
 
 	Fenrir (street gang - arms dealers)
-    		Fenrir tend to prefer specialized and efficient teams to cut down on personnel costs.
+    		The gangsters of the Fang crime family take an oath to always represent the interests of their employer. Everyone, from the
+		pack leaders to the pups, wear the Fenrir brand with pride even when considered "off-duty". Insults to any of them
+		personally is an insult to the Fenrir collectively, and vice versa. When directing operations on their own turf or in the
+		field, the Fangs spare neither expense nor talent. Fenrir tend to prefer specialized and efficient teams to cut down on
+		personnel costs.
 
     		Roll 1d20 to generate Fenrir gangsters in a given location:
 			20%	  <04 	:: solo mule
@@ -533,7 +538,7 @@ Random Encounters
 			10%	14,15	:: Fenrir Shock Team comprised of 1d4 + 2 Bruisers
 			10%	16,17	:: Fenrir Lieutenant (equipped with Nitro)
 			10%	18,19	:: Fenrir Cleaner (equipped with Scorpion)
-			5%	20 	:: Fenrir Entourage comprised of 1d6 Collectors, 2 Bruisers, 1 Lieutenant
+			5%	   20 	:: Fenrir Entourage comprised of 1d6 Collectors, 2 Bruisers, 1 Lieutenant
 
 	Birdeaters (street gang - motorcycles)
 		Birdeaters are highly territorial, and hostile unless racing - then, they’re apathetic at best.
